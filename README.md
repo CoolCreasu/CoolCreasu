@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CoolCreasu
 - 👀 I’m interested in trying out ideas that i have.
-- 🌱 I’m currently learning Python/C#.
-- 💞️ I’m looking to collaborate on interesting projects and ideas
+- 🌱 I know a bit of C# and Python.
+- 💞️ I’m looking to collaborate on interesting projects and ideas.
 - 📫 How to reach me, i guess here on github?
 
 <!---
