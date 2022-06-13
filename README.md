@@ -2,13 +2,6 @@
 👋 Hello there, i am CoolCreasu.
 </h1>
 
-<!---
-- 👀 I’m interested in trying out ideas that i have.</li>
-- 🌱 I know a bit of C# and Python.</li>
-- 💞️ I’m looking to collaborate on interesting projects and ideas.</li>
-- 📫 How to reach me, i guess here on github?</li>
---->
-
 <p align='center'>
 	<a href="https://github.com/anuraghazra/github-readme-stats">
 		<img src="https://github-readme-stats.vercel.app/api?username=CoolCreasu&show_icons=true&theme=dark" />
