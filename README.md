@@ -2,16 +2,27 @@
 👋 Hi, i am CoolCreasu.
 </h1>
 
-<ul align='left'>
-<li>👀 I’m interested in trying out ideas that i have.</li>
-<li>🌱 I know a bit of C# and Python.</li>
-<li>💞️ I’m looking to collaborate on interesting projects and ideas.</li>
-<li>📫 How to reach me, i guess here on github?</li>
-</ul>
+<p align='center'>
+  <ul align='left'>
+    <li>👀 I’m interested in trying out ideas that i have.</li>
+    <li>🌱 I know a bit of C# and Python.</li>
+    <li>💞️ I’m looking to collaborate on interesting projects and ideas.</li>
+    <li>📫 How to reach me, i guess here on github?</li>
+  </ul>
+</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoolCreasu&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoolCreasu&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align='center'>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=CoolCreasu&show_icons=true&theme=dark" />
+  </a>
+</p>
+<p align='center'>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoolCreasu&layout=compact&theme=dark" />
+  </a>
+</p>
+
 
 <p align='center'>
   
