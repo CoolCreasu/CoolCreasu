@@ -13,7 +13,7 @@
 </p>
 --->
 
-<!---
+
 <p align='center'>
     <ul align='left'>
       <li>👀 I’m interested in trying out ideas that i have.</li>
@@ -22,7 +22,7 @@
       <li>📫 How to reach me, i guess here on github?</li>
     </ul>
 </p>
---->
+
 
 <p align='center'>
 	<a href="https://github.com/anuraghazra/github-readme-stats">
