@@ -1,5 +1,7 @@
+<h1 align='center'>
+  👋 Hi, i am CoolCreasu.
+</h1>
 
-- 👋 Hi, I’m @CoolCreasu
 - 👀 I’m interested in trying out ideas that i have.
 - 🌱 I know a bit of C# and Python.
 - 💞️ I’m looking to collaborate on interesting projects and ideas.
