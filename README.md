@@ -8,7 +8,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoolCreasu&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![image]({[BadgeURLHere](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)})
+![image]({https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white})
 ![image]({BadgeURLHere})
 ![image]({BadgeURLHere})
 ![image]({BadgeURLHere})
