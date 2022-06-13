@@ -5,10 +5,12 @@
 <p align='left'>
   <a align='left'>
     <ul align='center'>
+      <center>
       <li>👀 I’m interested in trying out ideas that i have.</li>
       <li>🌱 I know a bit of C# and Python.</li>
       <li>💞️ I’m looking to collaborate on interesting projects and ideas.</li>
       <li>📫 How to reach me, i guess here on github?</li>
+      </center>
     </ul>
   </a>
 </p>
