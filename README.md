@@ -2,18 +2,6 @@
 👋 Hello there, i am CoolCreasu.
 </h1>
 
-<!---
-<p align='center'>
-    <ul style="width: min-content">
-        <li> hello. </li>
-        <li> who. </li>
-        <li> am. </li>
-        <li> i </li>
-    </ul>
-</p>
---->
-
-
 <p align='center'>
     <ul align='left'>
       <li>👀 I’m interested in trying out ideas that i have.</li>
