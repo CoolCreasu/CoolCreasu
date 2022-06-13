@@ -4,7 +4,7 @@
 
 <p align='center'>
   <a align='center'>
-    <ul align='left'>
+    <ul align='center'>
       <li>👀 I’m interested in trying out ideas that i have.</li>
       <li>🌱 I know a bit of C# and Python.</li>
       <li>💞️ I’m looking to collaborate on interesting projects and ideas.</li>
