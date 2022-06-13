@@ -8,7 +8,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoolCreasu&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![image]({BadgeURLHere})
+[![image]({[BadgeURLHere](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)})
 
 <!---
 CoolCreasu/CoolCreasu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
