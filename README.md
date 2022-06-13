@@ -2,8 +2,8 @@
 👋 Hi, i am CoolCreasu.
 </h1>
 
-<p align='center'>
-  <a align='center'>
+<p align='left'>
+  <a align='right'>
     <ul align='center'>
       <li>👀 I’m interested in trying out ideas that i have.</li>
       <li>🌱 I know a bit of C# and Python.</li>
