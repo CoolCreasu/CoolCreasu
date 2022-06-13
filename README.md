@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-    <ul align='center'>
+    <ul>
       <li>👀 I’m interested in trying out ideas that i have.</li>
       <li>🌱 I know a bit of C# and Python.</li>
       <li>💞️ I’m looking to collaborate on interesting projects and ideas.</li>
