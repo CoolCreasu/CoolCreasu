@@ -2,14 +2,14 @@
 👋 Hello there, i am CoolCreasu.
 </h1>
 
-
-<ul align='center'>
-<li>👀 I’m interested in trying out ideas that i have.</li>
-<li>🌱 I know a bit of C# and Python.</li>
-<li>💞️ I’m looking to collaborate on interesting projects and ideas.</li>
-<li>📫 How to reach me, i guess here on github?</li>
-</ul>
-
+<p align='center'>
+  <ul align='left'>
+    <li>👀 I’m interested in trying out ideas that i have.</li>
+    <li>🌱 I know a bit of C# and Python.</li>
+    <li>💞️ I’m looking to collaborate on interesting projects and ideas.</li>
+    <li>📫 How to reach me, i guess here on github?</li>
+  </ul>
+</p>
 
 <p align='center'>
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -22,9 +22,7 @@
   </a>
 </p>
 
-
 <p align='center'>
-  
   <a href="https://unity.com/">
     <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
   </a><!---&nbsp;&nbsp;--->
