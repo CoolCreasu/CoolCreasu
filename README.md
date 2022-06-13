@@ -1,9 +1,9 @@
 <h1 align='center'>
-👋 Hi, i am CoolCreasu.
+👋 Hello there, i am CoolCreasu.
 </h1>
 
 <p align='left'>
-  <a align='right'>
+  <a align='left'>
     <ul align='center'>
       <li>👀 I’m interested in trying out ideas that i have.</li>
       <li>🌱 I know a bit of C# and Python.</li>
