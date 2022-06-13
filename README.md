@@ -2,6 +2,7 @@
 👋 Hello there, i am CoolCreasu.
 </h1>
 
+<!---
 <p align='center'>
     <ul style="width: min-content">
         <li> hello. </li>
@@ -10,6 +11,7 @@
         <li> i </li>
     </ul>
 </p>
+--->
 
 <!---
 <p align='center'>
