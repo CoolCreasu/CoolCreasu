@@ -3,12 +3,14 @@
 </h1>
 
 <p align='center'>
-  <ul align='left'>
-    <li>👀 I’m interested in trying out ideas that i have.</li>
-    <li>🌱 I know a bit of C# and Python.</li>
-    <li>💞️ I’m looking to collaborate on interesting projects and ideas.</li>
-    <li>📫 How to reach me, i guess here on github?</li>
-  </ul>
+  <a align='center'>
+    <ul align='left'>
+      <li>👀 I’m interested in trying out ideas that i have.</li>
+      <li>🌱 I know a bit of C# and Python.</li>
+      <li>💞️ I’m looking to collaborate on interesting projects and ideas.</li>
+      <li>📫 How to reach me, i guess here on github?</li>
+    </ul>
+  </a>
 </p>
 
 
