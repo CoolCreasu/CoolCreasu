@@ -4,18 +4,20 @@
 - 💞️ I’m looking to collaborate on interesting projects and ideas.
 - 📫 How to reach me, i guess here on github?
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CoolCreasu&show_icons=true&theme=dark" />
-</a>
+<p align="center" href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=CoolCreasu&show_icons=true&theme=dark" />
+</p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<p align="center" href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoolCreasu&layout=compact&theme=dark" />
-</a>
+</p>
 
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoolCreasu&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<!--
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoolCreasu&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoolCreasu&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 --->
+
 [![image](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
 [![image](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/)
 [![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
