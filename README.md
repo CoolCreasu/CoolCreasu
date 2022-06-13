@@ -7,6 +7,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoolCreasu&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoolCreasu&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CoolCreasu&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 CoolCreasu/CoolCreasu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
