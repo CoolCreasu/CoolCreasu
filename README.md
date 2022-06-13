@@ -4,19 +4,9 @@
 - 💞️ I’m looking to collaborate on interesting projects and ideas.
 - 📫 How to reach me, i guess here on github?
 
-<p align="center" href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=CoolCreasu&show_icons=true&theme=dark" />
-</p>
-
-<p align="center" href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoolCreasu&layout=compact&theme=dark" />
-</p>
-
-<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoolCreasu&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoolCreasu&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
---->
 
 [![image](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
 [![image](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/)
