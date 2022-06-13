@@ -41,12 +41,12 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />        
   </a><!---&nbsp;&nbsp;--->
   <a href="https://visualstudio.microsoft.com/">
-    <img scr="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />        
   </a><!---&nbsp;&nbsp;--->
   <a href="https://code.visualstudio.com/">
-    <img scr="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />        
   </a><!---&nbsp;&nbsp;--->
   <a href="https://www.arduino.cc/">
-    <img scr="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+    <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />        
   </a><!---&nbsp;&nbsp;--->
 </p>
