@@ -2,6 +2,8 @@
 👋 Hello there, I am CoolCreasu.
 </h1>
 
+---
+
 <p align='center'>
 	<a href="https://github.com/anuraghazra/github-readme-stats">
 		<img src="https://github-readme-stats.vercel.app/api?username=CoolCreasu&show_icons=true&theme=dark" />
