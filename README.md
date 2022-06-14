@@ -2,7 +2,6 @@
 👋 Hello there, I am CoolCreasu.
 </h1>
 
----
 
 <p align='center'>
 	<a href="https://github.com/anuraghazra/github-readme-stats">
@@ -15,7 +14,6 @@
 	</a>
 </p>
 
----
 
 <p align='center'>
 	<a href="https://unity.com/">
