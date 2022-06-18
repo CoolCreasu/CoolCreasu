@@ -10,7 +10,7 @@
 </p>
 <p align='center'>
 	<a href="https://github.com/anuraghazra/github-readme-stats">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoolCreasu&layout=compact&theme=dark" />
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoolCreasu&langs_count=10&layout=compact&theme=dark" />
 	</a>
 </p>
 
